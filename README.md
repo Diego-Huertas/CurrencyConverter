@@ -1,12 +1,12 @@
 # CurrencyConverter
 Esta aplicación permite la conversión de cuatro divisas: dolar estadounidense (USD), euro (EUR), libra esterlina (GBP), yen japonés (JPY).
 
-##Características clave
+## Características clave
 Tipos de cambio predefinidos: el programa utiliza tipos de cambio codificados.
 Validación de moneda: valida las monedas de entrada y garantiza que sean compatibles.
 Escalabilidad: puede agregar fácilmente más monedas y tipos de cambio.
 
-##Uso de la aplicación
+## Uso de la aplicación
 1. Ingrese la moneda desde la que desea convertir (por ejemplo, USD)
 2. Ingrese la moneda a la que desea convertir (por ejemplo, EUR)
 3. Ingrese la cantidad a convertir
